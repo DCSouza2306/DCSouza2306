@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hi there, i'm Diego Candido 👋
 
-<!--
-**DCSouza2306/DCSouza2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 - Hi, i'm Diego Candido, i'm 27 years old and i'm graduated in production engineering at Universidade Federal de Ouro Preto. 
+
+🌱 - I'm in a career transition moment and I'm currently in a bootcamp at Driven.
+
+## Languages and tools
+
+
+
+
 
 Here are some ideas to get you started:
 
